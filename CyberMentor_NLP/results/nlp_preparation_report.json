@@ -1,0 +1,24 @@
+{
+  "total_samples": 28556,
+  "train_samples": 19989,
+  "val_samples": 4283,
+  "test_samples": 4284,
+  "class_distribution": {
+    "train": {
+      "1": 9995,
+      "0": 9994
+    },
+    "val": {
+      "0": 2142,
+      "1": 2141
+    },
+    "test": {
+      "1": 2142,
+      "0": 2142
+    }
+  },
+  "text_feature_stats": {
+    "average_length": 82.49897443593977,
+    "vocabulary_size": 165
+  }
+}
